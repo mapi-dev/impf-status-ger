@@ -1,8 +1,11 @@
 # COVID-19 Impffortschritt
 Das PHP-Skript erstellt automatisiert eine Übersichtsgrafik zum aktuellen Impffortschritt in Deutschland.
-Die Daten werden durch das Robert Koch-Institut und das Bundesministerium für Gesundheit täglich aktualisiert bereitgestellt. (https://impfdashboard.de/daten)
+Die Daten werden durch das Robert Koch-Institut und das Bundesministerium für Gesundheit täglich aktualisiert bereitgestellt. (https://impfdashboard.de/daten).
+Übersichtsgrafik wird täglich auf Twitter gepostet bei [@ImpfStatusGER](https://twitter.com/ImpfStatusGER).
 
 Der Source-Code ist zeitnah hier öffentlich zugänglich.
+
+Zu erreichen per DM auf Twitter unter [@ImpfStatusGER](https://twitter.com/ImpfStatusGER).
 
 ## Changelog
 
