@@ -9,7 +9,7 @@ Der Source-Code ist zeitnah hier öffentlich zugänglich.
 **01.05.21:**
   * Veränderung der Semantik der Prozentzahl: Bisher zeigt die Prozentzahl den Fortschritt der Impfungen bezogen auf die Gesamtzahl der zu verimpfenden Dosen. Dabei wurde generell von zwei Impfdosen pro Person für die Schutzwirkung ausgegangen und angenommen dass 11,5% der verimpften Dosen als Einmalimpfung von Johnson & Johnson durchgeführt werden (Anteil laut den veröffentlichten Lieferprognosen von BMI aus April 21). 
   * Die Prozentzahl bezieht sich nun aber auf die Bevölkerung und beantwortet die Frage: Wie viel Prozent der Bevölkerung wurden an diesem Tag geimpft?
-  * Visuelle Anpassung der Grafik folgt ...
+  * Visuelle Anpassung der Grafik zum besseren Verständnis folgt ...
 
 **28.04.21:**
   * Bugfixing: Anpassung der visuellen Darstellung des Wertes 'Fortschritt zum Vortag'. Mehr als 1 Millionen Impfungen pro Tag? Damit hat das Skript nicht gerechnet :-)
