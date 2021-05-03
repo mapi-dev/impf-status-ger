@@ -33,3 +33,8 @@ Zu erreichen per DM auf Twitter unter [@ImpfStatusGER](https://twitter.com/ImpfS
  
 **23.01.21:** 
   * Inital version
+
+## Links
+* [Twitter Account - @ImpfStatusGER](https://twitter.com/ImpfStatusGER)
+* [Datensätze zu täglich verabreichten Impfungen vom RKI](https://impfdashboard.de/daten)
+* [Übersicht zu Liefermengen von Impfstoffdosen vom BMG](https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung.html)
