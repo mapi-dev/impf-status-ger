@@ -7,6 +7,12 @@ Der Source-Code ist zeitnah hier öffentlich zugänglich.
 
 Zu erreichen per DM auf Twitter unter [@ImpfStatusGER](https://twitter.com/ImpfStatusGER).
 
+## FAQ
+
+**Was bedeutet das Datum der Herdenimmunität?**
+
+Vollimpfung (zwei Impfdosen oder eine Impfdosis J&J) für 70% der Bevölkerung. 
+
 ## Changelog
 
 **01.05.21:**
