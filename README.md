@@ -11,9 +11,13 @@ Zu erreichen per DM auf Twitter unter [@ImpfStatusGER](https://twitter.com/ImpfS
 
 **Was bedeutet das Datum der Herdenimmunität?**
 
-Vollimpfung (zwei Impfdosen oder eine Impfdosis J&J) für 70% der Bevölkerung. 
+Vollimpfung (zwei Impfdosen oder eine Impfdosis J&J) für 80% der Bevölkerung. 
+
 
 ## Changelog
+
+**10.05.21:**
+  * Anpassung bei der Berechnung des Datums zur Herdenimmunität: RKI geht jetzt von 80% aus (https://www.pharmazeutische-zeitung.de/das-ziel-sind-jetzt-80-prozent/)
 
 **01.05.21:**
   * Veränderung der Semantik der Prozentzahl: Bisher zeigt die Prozentzahl den Fortschritt der Impfungen bezogen auf die Gesamtzahl der zu verimpfenden Dosen. Dabei wurde generell von zwei Impfdosen pro Person für die Schutzwirkung ausgegangen und angenommen dass 11,5% der verimpften Dosen als Einmalimpfung von Johnson & Johnson durchgeführt werden (Anteil laut den veröffentlichten Lieferprognosen von BMI aus April 21). 
