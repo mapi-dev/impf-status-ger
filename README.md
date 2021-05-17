@@ -9,10 +9,18 @@ Zu erreichen per DM auf Twitter unter [@ImpfStatusGER](https://twitter.com/ImpfS
 
 ## FAQ
 
+**Wieso hat sich das Datum der Herdenimmunität in der Grafik von 70% auf 80% verschoben?**
+
+Siehe Changelog vom 10.05.21: Anpassung bei der Berechnung des Datums zur Herdenimmunität. RKI geht jetzt von 80% aus (https://www.pharmazeutische-zeitung.de/das-ziel-sind-jetzt-80-prozent/)
+
+**Woher stammen die Daten?**
+
+Täglich aktualisiert, im CSV-Format bereitgestellt vom Robert Koch-Institut und dem Bundesministerium für Gesundheit:
+[Datensätze zu täglich verabreichten Impfungen vom RKI](https://impfdashboard.de/daten)
+
 **Was bedeutet das Datum der Herdenimmunität?**
 
 Vollimpfung (zwei Impfdosen oder eine Impfdosis J&J) für 80% der Bevölkerung. Dieser Wert definiert die Schwelle, ab der sich ein Virus nicht mehr in einer Bevölkerung verbreiten kann, weil bereits ein Großteil der Bevölkerung immunisiert ist. Das RKI geht dabei aktuell von 80% aus (siehe Changelog vom 10.05.21).
-
 
 ## Changelog
 
